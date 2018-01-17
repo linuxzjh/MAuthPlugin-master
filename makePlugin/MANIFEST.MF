@@ -1,0 +1,8 @@
+Plugin-SymbolicName: auth.plugin
+Plugin-ActivationPolicy: eager
+Plugin-Category: test
+Plugin-ContactAddress: https://github.com/Waleon
+Plugin-Description: A plugin for authentication
+Plugin-Name: auth_plugin
+Plugin-Vendor: Waleon
+Plugin-Version: 1.0.0
